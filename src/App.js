@@ -15,7 +15,7 @@ const App = () => {
             params: {
                 part: 'snippet',
                 maxResults: 5,
-                key: 'AIzaSyD-e3veKB53UVnO6NMK0eJiOsHg6SRq-bc',
+                key: '',
                 q: searchTerm,
             }
         })
